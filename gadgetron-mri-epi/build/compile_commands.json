@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/sn21/fetal-brain-tracking/Gagdetron/gadgetron-mri-epi/build",
+  "command": "/home/sn21/miniconda3/envs/gadgetron/bin/x86_64-conda-linux-gnu-c++ -DARMA_64BIT_WORD -DARMA_DONT_USE_WRAPPER -DARMA_USE_CXX11 -DBOOST_ATOMIC_DYN_LINK -DBOOST_ATOMIC_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_FILESYSTEM_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -Dgadgetron_mri_epi_EXPORTS -isystem /home/sn21/miniconda3/envs/gadgetron/include/gadgetron -fvisibility-inlines-hidden -std=c++17 -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/sn21/miniconda3/envs/gadgetron/include -g -fPIC -std=gnu++17 -o CMakeFiles/gadgetron_mri_epi.dir/EPIReconXGadget.cpp.o -c /home/sn21/fetal-brain-tracking/Gagdetron/gadgetron-mri-epi/EPIReconXGadget.cpp",
+  "file": "/home/sn21/fetal-brain-tracking/Gagdetron/gadgetron-mri-epi/EPIReconXGadget.cpp"
+},
+{
+  "directory": "/home/sn21/fetal-brain-tracking/Gagdetron/gadgetron-mri-epi/build",
+  "command": "/home/sn21/miniconda3/envs/gadgetron/bin/x86_64-conda-linux-gnu-c++ -DARMA_64BIT_WORD -DARMA_DONT_USE_WRAPPER -DARMA_USE_CXX11 -DBOOST_ATOMIC_DYN_LINK -DBOOST_ATOMIC_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_FILESYSTEM_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -Dgadgetron_mri_epi_EXPORTS -isystem /home/sn21/miniconda3/envs/gadgetron/include/gadgetron -fvisibility-inlines-hidden -std=c++17 -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/sn21/miniconda3/envs/gadgetron/include -g -fPIC -std=gnu++17 -o CMakeFiles/gadgetron_mri_epi.dir/FFTGadget.cpp.o -c /home/sn21/fetal-brain-tracking/Gagdetron/gadgetron-mri-epi/FFTGadget.cpp",
+  "file": "/home/sn21/fetal-brain-tracking/Gagdetron/gadgetron-mri-epi/FFTGadget.cpp"
+},
+{
+  "directory": "/home/sn21/fetal-brain-tracking/Gagdetron/gadgetron-mri-epi/build",
+  "command": "/home/sn21/miniconda3/envs/gadgetron/bin/x86_64-conda-linux-gnu-c++ -DARMA_64BIT_WORD -DARMA_DONT_USE_WRAPPER -DARMA_USE_CXX11 -DBOOST_ATOMIC_DYN_LINK -DBOOST_ATOMIC_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_FILESYSTEM_NO_LIB -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB -Dgadgetron_mri_epi_EXPORTS -isystem /home/sn21/miniconda3/envs/gadgetron/include/gadgetron -fvisibility-inlines-hidden -std=c++17 -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /home/sn21/miniconda3/envs/gadgetron/include -g -fPIC -std=gnu++17 -o CMakeFiles/gadgetron_mri_epi.dir/AutoScaleGadgetSNS.cpp.o -c /home/sn21/fetal-brain-tracking/Gagdetron/gadgetron-mri-epi/AutoScaleGadgetSNS.cpp",
+  "file": "/home/sn21/fetal-brain-tracking/Gagdetron/gadgetron-mri-epi/AutoScaleGadgetSNS.cpp"
+}
+]
